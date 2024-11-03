@@ -46,14 +46,14 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot 1](![Landing page](image.png))
+*The landing page*
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot 2](![Calculator](image-1.png))
+*Calculator*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot 3](![Description](image-2.png))
+*Description page*
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
