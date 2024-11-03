@@ -16,18 +16,18 @@
 [Genz calculator is a calculator different from a normal calculator,with various functions. We have assigned symbols for various functions and in the description we have given hints for the operation.  Skibidi - to find square of number and dividing it by number of digits , Fanum tax - gst calculation ,Slay-Reverses number,Glow-up - absolute value , YEET - display perfect 10,Deep inside-return 0 ,and cancel - some roasting messages]
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+[When we think that the old fashion calculator is not upto the Genz vibes so a calculator for Genz]
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+[Created some awesome genz functions for the Genz..]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- [Html,css, and javascript]
+- [Nil ]
+- [Nil ]
+- [Git and github,chatgpt]
 
 For Hardware:
 - [List main components]
@@ -87,9 +87,9 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- [Amaya jayan]: [The Landing page]
+- [Abjith B K]: [Calculator design and functions]
+- [Aswin Raj]: [Description page]
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
